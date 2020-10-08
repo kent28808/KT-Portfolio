@@ -2,29 +2,22 @@
 
 ## Description
 
-GymHero allows you to be able to access instructional information regarding your personal health, while experiencing your favorite motivational music ALL IN ONE PLACE.
+This is my portfolio page that has been updated with the recent projects completed in this course.
 
 
-
-
-
-[KT Portfolio](my-class-repo/Project-01/Screenshots/homepage.png)
+[KT Portfolio](https://github.com/kent28808/KT-Portfolio/blob/main/Assets/portfolio-screenshot-2.png)
 
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://www.w3schools.com/css/)
-* [Materializecss](https://materializecss.com/)
-* [JS](https://www.w3schools.com/js/)
-* [Garlicjs](https://garlicjs.org/#usage)
-* [JQuery](https://www.jquery.com)
-* [Moment.js](https://www.momentjs.com)
+* [Bootstrap](https://getbootstrap.com/)
 
 
 ## Deployed Link
 
-* [Deployed link](https://kent28808.github.io/Project-01/)
+* [Deployed link](https://kent28808.github.io/KT-Portfolio/)
 
 
 ## Authors
